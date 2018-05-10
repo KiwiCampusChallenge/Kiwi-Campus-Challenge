@@ -1,7 +1,7 @@
 # Kiwi-Campus-Challenge
 Kiwi Campus Inc, the biggest delivery company with robots in Sillicon Valley welcomes you to this new challenge of robotics and machine learning. 
 
-You have an 8 day deadline to solve it. In the repository, the Issues area is open to report questions about the challenge and tasks.
+You have an 8 day deadline to solve it. In the repository, the Issues area is open to report questions about the challenge and tasks, please write everything in english.
 
 Please start the name of your issues with a [machine learning] or [robotics] tag, for example:
 

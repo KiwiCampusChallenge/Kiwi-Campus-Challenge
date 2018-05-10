@@ -58,7 +58,7 @@ Once installed ROS. In console you can see that it was correctly installed with 
 
     printenv | grep ROS  
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa89839f8-b0e8-4f0d-bbfb-1a7fbbe5277c%2FUntitled)
+![](screenshot.png)
 
 Resources:
 
