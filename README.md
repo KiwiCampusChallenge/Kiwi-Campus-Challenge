@@ -6,6 +6,7 @@ You have an 8 day deadline to solve it. In the repository, the Issues area is op
 Please start the name of your issues with a [machine learning] or [robotics] tag, for example:
 
 **[machine learning] use of Theano**
+
 I am interested in completing the task with Theano. Can I use it?
 
 
