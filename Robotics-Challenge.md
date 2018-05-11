@@ -58,7 +58,7 @@ Once installed ROS. In console you can see that it was correctly installed with 
 
     printenv | grep ROS  
 
-![](screnshots/ss0)
+![](screnshots/ss0.png)
 
 Resources:
 
@@ -144,13 +144,13 @@ Install the world image and save it in the same folder as the ra1.cfg code.
 
 The map is shown below
 
-![](screenshots/ss1)
+![](screenshots/ss1.png)
 
 ## Task 2.2 - Keyboard control - Turtlebot (25 Points)
 
 > Target: Control robot using the keyboard. Create a .bag file with the list of nodes and topics that you are publishing and executing also the position and speed (linear and angular). The file name must be Task2_2.bag.
 
-![](screenshots/ss2)
+![](screenshots/ss2.png)
 
 Resources:
 
@@ -176,7 +176,7 @@ Correr el archivo .launch
 
 Una vez esté corriendo el .launch se podrá observar un mundo virtual en Gazebo. Un robot Trutlebot, obstáculos y un ambiente en 3D.
 
-![](screenshots/ss3)
+![](screenshots/ss3.png)
 
 ## Task 3.2 - Real Time Factor - Gazebo (5 Points)
 
@@ -198,11 +198,11 @@ Zones are circles with 1 meter diameter.
 
     rosrun location_monitor location_monitor_node  
 
-![](screenshots/ss4)
+![](screenshots/ss4.png)
 
 We want to have the following results:
 
-![](screenshots/ss5)
+![](screenshots/ss5.png)
 
 When the robot is in certain areas near the object, it must publish what object it is and the distance corresponding to the center of the imaginary circle that was shown in the previous image.
 
@@ -210,4 +210,4 @@ When the robot is in certain areas near the object, it must publish what object 
 
 > Target: Using the SLAM technique, reconstruct the Gazebo environment. Using Lidar sensor and visualize the data in RVIZ. Create a .bag file with a duration of 1 minute, where RVIZ can be displayed and the Gazebo map with the Turtlebot. The file must have the name Task3_4.bag
 
-![](screenshots/ss6)
+![](screenshots/ss6.png)
