@@ -138,7 +138,7 @@ Install the world image and save it in the same folder as the ra1.cfg code.
     
     erratic( pose [ -4.5 -7.0 0.0 45.000 ] name "ra" color "blue")
 
-[ra.pgm](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9ebe60ac-d8d9-4ba4-8996-0a91502ea27a%2Fra.pgm)
+[ra.pgm](screenshots/ra.pgm)
 
     rosrun stage_ros stageros ra1.cfg
 
