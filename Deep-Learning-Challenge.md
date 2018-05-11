@@ -37,6 +37,8 @@ The following tasks are designed to test your current skills. Some of the tasks 
 
 Create a *download* group that will download all data from the *German Traffic Signs Dataset* ([http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)). This will store the the data set inside an *images* folder.
 
+Since you only need to build CLASSIFICATION models, please ignore all images related to object detection (the best solution would be to ignore them from code).
+
 The train folder will contain images for training the models; the test folder will have images on which you will validate your models; and finally, the user folder should be created by you but left empty, we will put our own images there to make our own tests on your code. 
 
 From the total of the images in the data set, leave 80% for training and 20% for testings your models.
@@ -84,3 +86,4 @@ You DO NOT have to implement all models, we do not really expect you to do so, w
 It is a requirement that you use good programming style, think of functions, clases, docstrings, etc.
 
 DO NOT include the images in the directory
+
