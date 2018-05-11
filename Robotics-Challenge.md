@@ -58,7 +58,7 @@ Once installed ROS. In console you can see that it was correctly installed with 
 
     printenv | grep ROS  
 
-![](screenshot.png)
+![](screnshots/ss0)
 
 Resources:
 
@@ -144,13 +144,13 @@ Install the world image and save it in the same folder as the ra1.cfg code.
 
 The map is shown below
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1fa7a0eb-9ccc-481d-96d7-ac0d83be4391%2FUntitled)
+![](screenshots/ss1)
 
 ## Task 2.2 - Keyboard control - Turtlebot (25 Points)
 
 > Target: Control robot using the keyboard. Create a .bag file with the list of nodes and topics that you are publishing and executing also the position and speed (linear and angular). The file name must be Task2_2.bag.
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa6572b79-a906-4516-ad23-2352fbed9b4f%2FUntitled)
+![](screenshots/ss2)
 
 Resources:
 
@@ -176,7 +176,7 @@ Correr el archivo .launch
 
 Una vez esté corriendo el .launch se podrá observar un mundo virtual en Gazebo. Un robot Trutlebot, obstáculos y un ambiente en 3D.
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6a0359c6-3517-4cc4-9816-9c5042ebce8c%2FUntitled)
+![](screenshots/ss3)
 
 ## Task 3.2 - Real Time Factor - Gazebo (5 Points)
 
@@ -198,16 +198,16 @@ Zones are circles with 1 meter diameter.
 
     rosrun location_monitor location_monitor_node  
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Febcdb60a-f42e-4e96-aee0-dd2d9d1e6ac8%2FUntitled)
+![](screenshots/ss4)
 
-Se quiere tener como resultado lo siguiente:
+We want to have the following results:
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe122d4c3-16af-4b16-bc96-781e0a4a5708%2FCapturadepantallade2018-05-1008-15-16.png)
+![](screenshots/ss5)
 
-Cuando el robot está por determinadas zonas cercas al objeto publica qué objeto es y la distancia correspondiente al centro del circulo imaginario que se mostró en la anterior imagen.
+When the robot is in certain areas near the object, it must publish what object it is and the distance corresponding to the center of the imaginary circle that was shown in the previous image.
 
 ## Task 3.4 - SLAM (30 Points)
 
-> Target: Usando la técnica de SLAM reconstruir el ambiente de Gazebo. Usando sensor Lidar y visualizar los datos en RVIZ. Crear un archivo .bag con duración de 1 minuto, dónde se pueda mostrar RVIZ y el mapa de Gazebo con el Turtlebot. El archivo deberá tener como nombre Task3_4.bag
+> Target: Using the SLAM technique, reconstruct the Gazebo environment. Using Lidar sensor and visualize the data in RVIZ. Create a .bag file with a duration of 1 minute, where RVIZ can be displayed and the Gazebo map with the Turtlebot. The file must have the name Task3_4.bag
 
-![](https://www.notion.so/file/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2ff6c46e-6950-4b14-9032-b9cb9193e706%2FCapturadepantallade2018-05-1008-59-06.png)
+![](screenshots/ss6)
