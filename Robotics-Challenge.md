@@ -58,7 +58,7 @@ Once installed ROS. In console you can see that it was correctly installed with 
 
     printenv | grep ROS  
 
-![](screnshots/ss0.png)
+![](screenshots/ss0.png)
 
 Resources:
 
