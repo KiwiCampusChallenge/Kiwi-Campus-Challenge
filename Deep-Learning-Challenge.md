@@ -35,7 +35,7 @@ The following tasks are designed to test your current skills. Some of the tasks 
 ```
 **Task 2 (15 points)** 
 
-Create a *download* group that will download all data from the *German Traffic Signs Dataset* ([http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)). This will store the the data set inside an *images* folder.
+Create a *download* command that will download all data from the *German Traffic Signs Dataset* ([http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)). This will store the the data set inside an *images* folder.
 
 Since you only need to build CLASSIFICATION models, please ignore all images related to object detection (the best solution would be to ignore them from code).
 
