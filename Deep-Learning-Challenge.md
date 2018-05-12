@@ -7,7 +7,7 @@ The following tasks are designed to test your current skills. Some of the tasks 
 1. Create a *GitHub* ([https://github.com/](https://github.com/)) repository and name it "German Traffic Signs Detector".
 2. Create an [app.py](http://application.py) file, which will store a *Click* application ([http://click.pocoo.org/5/](http://click.pocoo.org/5/)); this will be the main program, and you will implement several groups ([http://click.pocoo.org/5/commands/](http://click.pocoo.org/5/commands/)), which are related to the rest of the tasks of this challenge. 
 3. Create directories with the following structure:
-
+´´´
       German Traffic Signs Detector
       	|
       	|-images/
@@ -32,7 +32,7 @@ The following tasks are designed to test your current skills. Some of the tasks 
       			.
       	|-README.md
       	|-app.py
-
+´´´
 **Task 2 (15 points)** 
 
 Create a *download* group that will download all data from the *German Traffic Signs Dataset* ([http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)). This will store the the data set inside an *images* folder.
