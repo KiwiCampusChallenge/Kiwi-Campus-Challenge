@@ -53,7 +53,7 @@ Create, train and save a logistic regression model using scikit-learn ([http://s
 
 **Task 4 (20 points)**
 
-Create, train and save a logistic regression model using TensorFlow ([https://www.tensorflow.org/](https://www.tensorflow.org/))
+Create, train and save a logistic regression (or softmax) model using TensorFlow ([https://www.tensorflow.org/](https://www.tensorflow.org/))
 
 **Task 5 (35 points)**
 
