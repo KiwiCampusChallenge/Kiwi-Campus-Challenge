@@ -31,8 +31,10 @@ The following tasks are designed to test your current skills. Some of the tasks 
       			.
       			.
       	|-README.md
+            |-requirements.txt
       	|-app.py
 ```
+Note that you may use a lot of different libraries for image proecssing, so please include a `requirements.txt` file
 **Task 2 (15 points)** 
 
 Create a *download* command that will download all data from the *German Traffic Signs Dataset* ([http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)). This will store the the data set inside an *images* folder.
