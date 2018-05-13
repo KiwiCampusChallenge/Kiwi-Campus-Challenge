@@ -5,7 +5,7 @@ The following tasks are designed to test your current skills. Some of the tasks 
 **Task 1 (5 points)**
 
 1. Create a *GitHub* ([https://github.com/](https://github.com/)) repository and name it "German Traffic Signs Detector".
-2. Create an [app.py](http://application.py) file, which will store a *Click* application ([http://click.pocoo.org/5/](http://click.pocoo.org/5/)); this will be the main program, and you will implement several groups ([http://click.pocoo.org/5/commands/](http://click.pocoo.org/5/commands/)), which are related to the rest of the tasks of this challenge. 
+2. Create an [app.py](http://application.py) file, which will store a *Click* application ([http://click.pocoo.org/5/](http://click.pocoo.org/5/)); this will be the main program, and you will implement several comands ([http://click.pocoo.org/5/commands/](http://click.pocoo.org/5/commands/)), which are related to the rest of the tasks of this challenge. 
 3. Create directories with the following structure:
 ```
       German Traffic Signs Detector
